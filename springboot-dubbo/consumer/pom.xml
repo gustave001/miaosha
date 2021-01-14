@@ -52,22 +52,22 @@
         <dependency>
             <groupId>org.mengyun</groupId>
             <artifactId>tcc-transaction-dubbo</artifactId>
-            <version>1.2.4.24</version>
+            <version>1.2.12</version>
         </dependency>
         <dependency>
             <groupId>org.mengyun</groupId>
             <artifactId>tcc-transaction-spring</artifactId>
-            <version>1.2.4.24</version>
+            <version>1.2.12</version>
         </dependency>
         <dependency>
             <groupId>org.mengyun</groupId>
             <artifactId>tcc-transaction-core</artifactId>
-            <version>1.2.4.24</version>
+            <version>1.2.12</version>
         </dependency>
         <dependency>
             <groupId>org.mengyun</groupId>
             <artifactId>tcc-transaction-api</artifactId>
-            <version>1.2.4.24</version>
+            <version>1.2.12</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
